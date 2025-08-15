@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk"> <!-- Define the project type as a .NET SDK project -->
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType> <!-- Define the output type of the project as an executable -->
+    <TargetFramework>net9.0</TargetFramework> <!-- Specify the version of .NET for the project. Change the version is possible, but not is recommended to change when you starded your project  -->
+    <RootNamespace>sintaxe_convencoes</RootNamespace> <!-- Set the root namespace for the project -->
+    <AssemblyName>sintaxe-convencoes</AssemblyName> <!-- Define the assembly name for the project -->
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo> <!-- Disable automatic generation of assembly info --> 
+    <ImplicitUsings>enable</ImplicitUsings> <!-- Enable implicit using directives -->   
+    <Nullable>enable</Nullable> <!-- Enable nullable reference types -->
+  </PropertyGroup>
+
+</Project>

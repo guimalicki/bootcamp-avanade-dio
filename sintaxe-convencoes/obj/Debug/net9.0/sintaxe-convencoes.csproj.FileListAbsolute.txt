@@ -1,0 +1,12 @@
+C:\Users\Malicki\Desktop\DIO\bootcamp-avanade-dio\sintaxe-convencoes\bin\Debug\net9.0\sintaxe-convencoes.exe
+C:\Users\Malicki\Desktop\DIO\bootcamp-avanade-dio\sintaxe-convencoes\bin\Debug\net9.0\sintaxe-convencoes.deps.json
+C:\Users\Malicki\Desktop\DIO\bootcamp-avanade-dio\sintaxe-convencoes\bin\Debug\net9.0\sintaxe-convencoes.runtimeconfig.json
+C:\Users\Malicki\Desktop\DIO\bootcamp-avanade-dio\sintaxe-convencoes\bin\Debug\net9.0\sintaxe-convencoes.dll
+C:\Users\Malicki\Desktop\DIO\bootcamp-avanade-dio\sintaxe-convencoes\bin\Debug\net9.0\sintaxe-convencoes.pdb
+C:\Users\Malicki\Desktop\DIO\bootcamp-avanade-dio\sintaxe-convencoes\obj\Debug\net9.0\sintaxe-convencoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malicki\Desktop\DIO\bootcamp-avanade-dio\sintaxe-convencoes\obj\Debug\net9.0\sintaxe-convencoes.csproj.CoreCompileInputs.cache
+C:\Users\Malicki\Desktop\DIO\bootcamp-avanade-dio\sintaxe-convencoes\obj\Debug\net9.0\sintaxe-convencoes.dll
+C:\Users\Malicki\Desktop\DIO\bootcamp-avanade-dio\sintaxe-convencoes\obj\Debug\net9.0\refint\sintaxe-convencoes.dll
+C:\Users\Malicki\Desktop\DIO\bootcamp-avanade-dio\sintaxe-convencoes\obj\Debug\net9.0\sintaxe-convencoes.pdb
+C:\Users\Malicki\Desktop\DIO\bootcamp-avanade-dio\sintaxe-convencoes\obj\Debug\net9.0\sintaxe-convencoes.genruntimeconfig.cache
+C:\Users\Malicki\Desktop\DIO\bootcamp-avanade-dio\sintaxe-convencoes\obj\Debug\net9.0\ref\sintaxe-convencoes.dll

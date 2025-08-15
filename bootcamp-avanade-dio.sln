@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sintaxe-convencoes", "sintaxe-convencoes\sintaxe-convencoes.csproj", "{89E665BA-0723-A4C5-8C4F-8B3A6E7D2C25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E665BA-0723-A4C5-8C4F-8B3A6E7D2C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E665BA-0723-A4C5-8C4F-8B3A6E7D2C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E665BA-0723-A4C5-8C4F-8B3A6E7D2C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E665BA-0723-A4C5-8C4F-8B3A6E7D2C25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F678EB7-3EC0-48DE-A7EC-C02C58CA0B3B}
+	EndGlobalSection
+EndGlobal
