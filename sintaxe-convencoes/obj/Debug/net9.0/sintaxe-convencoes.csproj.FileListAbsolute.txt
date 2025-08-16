@@ -10,3 +10,4 @@ C:\Users\Malicki\Desktop\DIO\bootcamp-avanade-dio\sintaxe-convencoes\obj\Debug\n
 C:\Users\Malicki\Desktop\DIO\bootcamp-avanade-dio\sintaxe-convencoes\obj\Debug\net9.0\sintaxe-convencoes.pdb
 C:\Users\Malicki\Desktop\DIO\bootcamp-avanade-dio\sintaxe-convencoes\obj\Debug\net9.0\sintaxe-convencoes.genruntimeconfig.cache
 C:\Users\Malicki\Desktop\DIO\bootcamp-avanade-dio\sintaxe-convencoes\obj\Debug\net9.0\ref\sintaxe-convencoes.dll
+C:\Users\Malicki\Desktop\DIO\bootcamp-avanade-dio\sintaxe-convencoes\obj\Debug\net9.0\sintaxe-convencoes.sourcelink.json
